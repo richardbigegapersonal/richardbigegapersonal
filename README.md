@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Richard Bigega
-- 👀 I’m interested in Data Science, Business Analytics and Machine learning
-- 💞️ I’m looking to collaborate on End-to-end machine learning projects
+- 👀 Come build intelligent systems with me 
 - 📫 rbigega@gmail.com
 
 <!---
